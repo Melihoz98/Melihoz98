@@ -1,16 +1,13 @@
-### Hi there 👋
+👋 Hi there! I'm a high school student diving deep into AP Computer Science and loving every line of code!
 
-<!--
-**Melihoz98/Melihoz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about:
 
-Here are some ideas to get you started:
+Exploring algorithms and problem-solving
+Building fun projects with Python, Java, and more
+Learning new technologies and contributing to open-source
+🚀 Currently working on improving my data structures and algorithms knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always learning and growing as a developer. Let’s code and build the future!
+
+📫 You can reach me at: [Your email]
+
