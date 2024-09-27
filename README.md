@@ -11,4 +11,3 @@ Learning new tech skills and contributing to open-source
 
 📫 You can reach me at: melihozata2@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melihoz98&show_icons=true&theme=transparent)
