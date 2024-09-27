@@ -5,7 +5,7 @@
 Exploring new technologies and problem-solving
 Building fun projects with C#, Java, and more
 Learning new tech skills and contributing to open-source
-🚀 Currently working on improving my machine learning knowledge
+🚀 Currently working on improving my machine learning knowledge and Security skills!
 
 🌱 Always learning and growing as a developer. Let’s code and build the future!
 
