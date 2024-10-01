@@ -1,4 +1,4 @@
-👋 Hi there! I'm a high school student diving deep into AP Computer Science and loving every line of code!
+👋 Hi there! I'm a AP Computer Science student and loving every line of code!
 
 💻 Passionate about:
 
